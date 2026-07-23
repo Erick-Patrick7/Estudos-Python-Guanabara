@@ -1,0 +1,22 @@
+n = int(input('Digite um numero: '))
+x1 = n*1
+x2 = n*2
+x3 = n*3
+x4 = n*4
+x5 = n*5
+x6 = n*6
+x7 = n*7 
+x8= n*8
+x9 = n*9
+x10 = n*10
+print(f'número {n}')
+print(f'1x{x1} = {x1}') 
+print(f'2x{x1}= {x2}') 
+print(f'3x{x1}= {x3}') 
+print(f'4x{x1} = {x4}')
+print(f'5x{x1} = {x5}')
+print(f'6x{x1} = {x6}')
+print(f'7x{x1} = {x7}')
+print(f'8x{x1} = {x8}')
+print(f'9x{x1} = {x9}')
+print(f'10x{x1} = {x10}')
