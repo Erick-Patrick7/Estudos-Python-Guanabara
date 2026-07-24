@@ -1,0 +1,11 @@
+import random
+n1 = input('Aluno um: ')
+n2 = input('Aluno dois: ')
+n3 = input('Aluno tres: ')
+n4 = input('Aluno quatro: ') 
+n5 = input('Aluno cinco: ')
+n6 = input('Aluno seis: ')
+n7 = input('Aluno sete: ')
+alunos = (n1, n2, n3, n4, n5, n6, n7)
+escolhido = random.choice(alunos)
+print(f'O aluno escolhido é: {escolhido}')
