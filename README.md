@@ -1,2 +1,2 @@
 # Estudos-Python-Guanabara
-Primeiros exercícios do curso em vídeo
+Exercícios do curso em vídeo
